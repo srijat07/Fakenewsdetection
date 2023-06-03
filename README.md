@@ -4,11 +4,10 @@ The objective of fake news is to induce readers to trust incorrect information, 
 
 # Goal
 To build a predictive model using machine learning and NLP to predict whether the news is fake or true.
+# Tools and Language used
+Tools - Jupyter Notebook
+; Language used - Python
 
-# Machine Learning Models Applied Accuracy
-The accuracy attained by the models used here are
-
-# Logistic Regression : 98.85%
-# Random Forest Classifier : 98.99%
-# Decision Tree Classifier : 99.62%
-Dataset used:https://drive.google.com/file/d/1q8kMR_1taAOktar27eepduXTQ5MdLdUc/view?usp=drive_link
+# Dataset used:
+/content/True.csv
+/content/Fake.csv
