@@ -9,5 +9,4 @@ Tools - Jupyter Notebook
 ; Language used - Python
 
 # Dataset used:
-/content/True.csv
-/content/Fake.csv
+(https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
